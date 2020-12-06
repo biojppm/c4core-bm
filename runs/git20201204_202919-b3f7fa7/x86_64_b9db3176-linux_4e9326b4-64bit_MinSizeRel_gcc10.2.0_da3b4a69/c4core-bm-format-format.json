@@ -1,0 +1,96 @@
+{
+  "context": {
+    "date": "2020-12-05T00:05:28+00:00",
+    "host_name": "mozart",
+    "executable": "./c4core-bm-format",
+    "num_cpus": 12,
+    "mhz_per_cpu": 3600,
+    "cpu_scaling_enabled": false,
+    "caches": [
+      {
+        "type": "Data",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Instruction",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 2,
+        "size": 262144,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 3,
+        "size": 15728640,
+        "num_sharing": 12
+      }
+    ],
+    "load_avg": [1.42,1.61,1.48],
+    "library_build_type": "release"
+  },
+  "benchmarks": [
+    {
+      "name": "format_c4_format",
+      "run_name": "format_c4_format",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 299455,
+      "real_time": 2.3395102770043286e+03,
+      "cpu_time": 2.3370253627423153e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 9.3280973101718575e+07,
+      "items_per_second": 4.2789437202623195e+05
+    },
+    {
+      "name": "format_c4_formatrs_reuse",
+      "run_name": "format_c4_formatrs_reuse",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 297908,
+      "real_time": 2.3591523356192733e+03,
+      "cpu_time": 2.3566264920713779e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 9.2505113022126362e+07,
+      "items_per_second": 4.2433538083544199e+05
+    },
+    {
+      "name": "format_c4_formatrs_no_reuse",
+      "run_name": "format_c4_formatrs_no_reuse",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 146908,
+      "real_time": 4.7666148882230091e+03,
+      "cpu_time": 4.7616352342962955e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 4.5782591331193686e+07,
+      "items_per_second": 2.1001188684033800e+05
+    },
+    {
+      "name": "format_snprintf",
+      "run_name": "format_snprintf",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 473941,
+      "real_time": 1.4650771762707038e+03,
+      "cpu_time": 1.4634280701606328e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 1.4896529897507796e+08,
+      "items_per_second": 6.8332705951870617e+05
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "context": {
+    "date": "2020-12-05T02:37:18+00:00",
+    "host_name": "mozart",
+    "executable": "./c4core-bm-charconv",
+    "num_cpus": 12,
+    "mhz_per_cpu": 3600,
+    "cpu_scaling_enabled": false,
+    "caches": [
+      {
+        "type": "Data",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Instruction",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 2,
+        "size": 262144,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 3,
+        "size": 15728640,
+        "num_sharing": 12
+      }
+    ],
+    "load_avg": [2.54,2.21,1.34],
+    "library_build_type": "release"
+  },
+  "benchmarks": [
+    {
+      "name": "atox_c4_read_dec<uint64_t>",
+      "run_name": "atox_c4_read_dec<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 37357283,
+      "real_time": 1.8762998556380193e+01,
+      "cpu_time": 1.8738045590735279e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 4.2693886943873537e+08,
+      "items_per_second": 5.3367358679841921e+07
+    },
+    {
+      "name": "atox_c4_read_hex<uint64_t>",
+      "run_name": "atox_c4_read_hex<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 37516377,
+      "real_time": 1.8711179440399047e+01,
+      "cpu_time": 1.8687061839686709e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 4.2810368310602868e+08,
+      "items_per_second": 5.3512960388253585e+07
+    },
+    {
+      "name": "atox_c4_read_oct<uint64_t>",
+      "run_name": "atox_c4_read_oct<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 37396134,
+      "real_time": 1.8753423067769667e+01,
+      "cpu_time": 1.8730209785856481e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 4.2711747980745763e+08,
+      "items_per_second": 5.3389684975932203e+07
+    },
+    {
+      "name": "atox_c4_read_bin<uint64_t>",
+      "run_name": "atox_c4_read_bin<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 37422471,
+      "real_time": 1.8720732524585248e+01,
+      "cpu_time": 1.8699108431402092e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 4.2782788438005471e+08,
+      "items_per_second": 5.3478485547506839e+07
+    },
+    {
+      "name": "atox_c4_atou<uint64_t>",
+      "run_name": "atox_c4_atou<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 37446919,
+      "real_time": 1.8708570576963144e+01,
+      "cpu_time": 1.8686799840595693e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 4.2810968535236245e+08,
+      "items_per_second": 5.3513710669045307e+07
+    },
+    {
+      "name": "atox_c4_atox<uint64_t>",
+      "run_name": "atox_c4_atox<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 37459135,
+      "real_time": 1.8714845951485874e+01,
+      "cpu_time": 1.8692097641870259e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 4.2798834851365304e+08,
+      "items_per_second": 5.3498543564206630e+07
+    },
+    {
+      "name": "atox_c4_from_chars<uint64_t>",
+      "run_name": "atox_c4_from_chars<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 37455947,
+      "real_time": 1.8708426034408387e+01,
+      "cpu_time": 1.8686733137464138e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 4.2811121350907409e+08,
+      "items_per_second": 5.3513901688634261e+07
+    },
+    {
+      "name": "atox_std_atol<uint64_t>",
+      "run_name": "atox_std_atol<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 7422635,
+      "real_time": 9.4365626223189594e+01,
+      "cpu_time": 9.4231535431824426e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 8.4897268874366596e+07,
+      "items_per_second": 1.0612158609295825e+07
+    },
+    {
+      "name": "atox_std_strtoull<uint64_t>",
+      "run_name": "atox_std_strtoull<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 8485533,
+      "real_time": 8.2301792945826520e+01,
+      "cpu_time": 8.2179848690706976e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 9.7347465679924667e+07,
+      "items_per_second": 1.2168433209990583e+07
+    },
+    {
+      "name": "atox_scanf<uint64_t>",
+      "run_name": "atox_scanf<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1741948,
+      "real_time": 4.0183268903495519e+02,
+      "cpu_time": 4.0132960972428555e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 1.9933739764419626e+07,
+      "items_per_second": 2.4917174705524533e+06
+    },
+    {
+      "name": "atox_sstream<uint64_t>",
+      "run_name": "atox_sstream<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 386861,
+      "real_time": 1.8070110401382517e+03,
+      "cpu_time": 1.8050570773481929e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 4.4319928164004600e+06,
+      "items_per_second": 5.5399910205005750e+05
+    },
+    {
+      "name": "atox_sstream_reuse<uint64_t>",
+      "run_name": "atox_sstream_reuse<uint64_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1597893,
+      "real_time": 4.3839068260506485e+02,
+      "cpu_time": 4.3785192688121151e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 1.8271017001074854e+07,
+      "items_per_second": 2.2838771251343568e+06
+    }
+  ]
+}

@@ -1,0 +1,1332 @@
+[
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core.dir/src/c4/base64.cpp.o -c /opt/jpmag/proj/c4core/src/c4/base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core.dir/src/c4/char_traits.cpp.o -c /opt/jpmag/proj/c4core/src/c4/char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core.dir/src/c4/error.cpp.o -c /opt/jpmag/proj/c4core/src/c4/error.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core.dir/src/c4/format.cpp.o -c /opt/jpmag/proj/c4core/src/c4/format.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core.dir/src/c4/language.cpp.o -c /opt/jpmag/proj/c4core/src/c4/language.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/language.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core.dir/src/c4/memory_resource.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core.dir/src/c4/memory_util.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core.dir/src/c4/time.cpp.o -c /opt/jpmag/proj/c4core/src/c4/time.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/time.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-msan.dir/src/c4/base64.cpp.o -c /opt/jpmag/proj/c4core/src/c4/base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-msan.dir/src/c4/char_traits.cpp.o -c /opt/jpmag/proj/c4core/src/c4/char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-msan.dir/src/c4/error.cpp.o -c /opt/jpmag/proj/c4core/src/c4/error.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-msan.dir/src/c4/format.cpp.o -c /opt/jpmag/proj/c4core/src/c4/format.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-msan.dir/src/c4/language.cpp.o -c /opt/jpmag/proj/c4core/src/c4/language.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/language.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-msan.dir/src/c4/memory_resource.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-msan.dir/src/c4/memory_util.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-msan.dir/src/c4/time.cpp.o -c /opt/jpmag/proj/c4core/src/c4/time.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/time.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-ubsan.dir/src/c4/base64.cpp.o -c /opt/jpmag/proj/c4core/src/c4/base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-ubsan.dir/src/c4/char_traits.cpp.o -c /opt/jpmag/proj/c4core/src/c4/char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-ubsan.dir/src/c4/error.cpp.o -c /opt/jpmag/proj/c4core/src/c4/error.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-ubsan.dir/src/c4/format.cpp.o -c /opt/jpmag/proj/c4core/src/c4/format.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-ubsan.dir/src/c4/language.cpp.o -c /opt/jpmag/proj/c4core/src/c4/language.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/language.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-ubsan.dir/src/c4/memory_resource.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-ubsan.dir/src/c4/memory_util.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-ubsan.dir/src/c4/time.cpp.o -c /opt/jpmag/proj/c4core/src/c4/time.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/time.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-tsan.dir/src/c4/base64.cpp.o -c /opt/jpmag/proj/c4core/src/c4/base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-tsan.dir/src/c4/char_traits.cpp.o -c /opt/jpmag/proj/c4core/src/c4/char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-tsan.dir/src/c4/error.cpp.o -c /opt/jpmag/proj/c4core/src/c4/error.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-tsan.dir/src/c4/format.cpp.o -c /opt/jpmag/proj/c4core/src/c4/format.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-tsan.dir/src/c4/language.cpp.o -c /opt/jpmag/proj/c4core/src/c4/language.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/language.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-tsan.dir/src/c4/memory_resource.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-tsan.dir/src/c4/memory_util.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-tsan.dir/src/c4/time.cpp.o -c /opt/jpmag/proj/c4core/src/c4/time.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/time.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-asan.dir/src/c4/base64.cpp.o -c /opt/jpmag/proj/c4core/src/c4/base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-asan.dir/src/c4/char_traits.cpp.o -c /opt/jpmag/proj/c4core/src/c4/char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-asan.dir/src/c4/error.cpp.o -c /opt/jpmag/proj/c4core/src/c4/error.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-asan.dir/src/c4/format.cpp.o -c /opt/jpmag/proj/c4core/src/c4/format.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-asan.dir/src/c4/language.cpp.o -c /opt/jpmag/proj/c4core/src/c4/language.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/language.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-asan.dir/src/c4/memory_resource.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-asan.dir/src/c4/memory_util.cpp.o -c /opt/jpmag/proj/c4core/src/c4/memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-asan.dir/src/c4/time.cpp.o -c /opt/jpmag/proj/c4core/src/c4/time.cpp",
+  "file": "/opt/jpmag/proj/c4core/src/c4/time.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-msan.dir/c4/main.cpp.o -c /opt/jpmag/proj/c4core/test/c4/main.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/main.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-msan.dir/c4/libtest/test.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/test.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/test.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-msan.dir/c4/libtest/archetypes.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-std_vector-msan.dir/test_std_vector.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_vector.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_vector.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-std_string-msan.dir/test_std_string.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_string.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_string.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-charconv-msan.dir/test_charconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-blob-msan.dir/test_blob.cpp.o -c /opt/jpmag/proj/c4core/test/test_blob.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_blob.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-type_name-msan.dir/test_type_name.cpp.o -c /opt/jpmag/proj/c4core/test/test_type_name.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_type_name.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-error-msan.dir/test_error.cpp.o -c /opt/jpmag/proj/c4core/test/test_error.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-enum-msan.dir/test_enum.cpp.o -c /opt/jpmag/proj/c4core/test/test_enum.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_enum.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-preprocessor-msan.dir/test_preprocessor.cpp.o -c /opt/jpmag/proj/c4core/test/test_preprocessor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_preprocessor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-szconv-msan.dir/test_szconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_szconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_szconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-bitmask-msan.dir/test_bitmask.cpp.o -c /opt/jpmag/proj/c4core/test/test_bitmask.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_bitmask.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-span-msan.dir/test_span.cpp.o -c /opt/jpmag/proj/c4core/test/test_span.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_span.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-substr-msan.dir/test_substr.cpp.o -c /opt/jpmag/proj/c4core/test/test_substr.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_substr.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-memory_util-msan.dir/test_memory_util.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-types-msan.dir/test_types.cpp.o -c /opt/jpmag/proj/c4core/test/test_types.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_types.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-base64-msan.dir/test_base64.cpp.o -c /opt/jpmag/proj/c4core/test/test_base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-chartraits-msan.dir/test_char_traits.cpp.o -c /opt/jpmag/proj/c4core/test/test_char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-memory_resource-msan.dir/test_memory_resource.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-error_exception-msan.dir/test_error_exception.cpp.o -c /opt/jpmag/proj/c4core/test/test_error_exception.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error_exception.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-allocator-msan.dir/test_allocator.cpp.o -c /opt/jpmag/proj/c4core/test/test_allocator.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_allocator.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-ctor_dtor-msan.dir/test_ctor_dtor.cpp.o -c /opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-format-msan.dir/test_format.cpp.o -c /opt/jpmag/proj/c4core/test/test_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-ubsan.dir/c4/main.cpp.o -c /opt/jpmag/proj/c4core/test/c4/main.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/main.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-ubsan.dir/c4/libtest/test.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/test.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/test.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-ubsan.dir/c4/libtest/archetypes.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-std_string-ubsan.dir/test_std_string.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_string.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_string.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-base64-ubsan.dir/test_base64.cpp.o -c /opt/jpmag/proj/c4core/test/test_base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-format-ubsan.dir/test_format.cpp.o -c /opt/jpmag/proj/c4core/test/test_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-error_exception-ubsan.dir/test_error_exception.cpp.o -c /opt/jpmag/proj/c4core/test/test_error_exception.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error_exception.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-type_name-ubsan.dir/test_type_name.cpp.o -c /opt/jpmag/proj/c4core/test/test_type_name.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_type_name.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-charconv-ubsan.dir/test_charconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-szconv-ubsan.dir/test_szconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_szconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_szconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-types-ubsan.dir/test_types.cpp.o -c /opt/jpmag/proj/c4core/test/test_types.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_types.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-bitmask-ubsan.dir/test_bitmask.cpp.o -c /opt/jpmag/proj/c4core/test/test_bitmask.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_bitmask.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-enum-ubsan.dir/test_enum.cpp.o -c /opt/jpmag/proj/c4core/test/test_enum.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_enum.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-std_vector-ubsan.dir/test_std_vector.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_vector.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_vector.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-chartraits-ubsan.dir/test_char_traits.cpp.o -c /opt/jpmag/proj/c4core/test/test_char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-preprocessor-ubsan.dir/test_preprocessor.cpp.o -c /opt/jpmag/proj/c4core/test/test_preprocessor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_preprocessor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-ctor_dtor-ubsan.dir/test_ctor_dtor.cpp.o -c /opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-blob-ubsan.dir/test_blob.cpp.o -c /opt/jpmag/proj/c4core/test/test_blob.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_blob.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-memory_util-ubsan.dir/test_memory_util.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-error-ubsan.dir/test_error.cpp.o -c /opt/jpmag/proj/c4core/test/test_error.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-memory_resource-ubsan.dir/test_memory_resource.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-allocator-ubsan.dir/test_allocator.cpp.o -c /opt/jpmag/proj/c4core/test/test_allocator.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_allocator.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-span-ubsan.dir/test_span.cpp.o -c /opt/jpmag/proj/c4core/test/test_span.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_span.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-substr-ubsan.dir/test_substr.cpp.o -c /opt/jpmag/proj/c4core/test/test_substr.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_substr.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-tsan.dir/c4/main.cpp.o -c /opt/jpmag/proj/c4core/test/c4/main.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/main.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-tsan.dir/c4/libtest/test.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/test.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/test.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-tsan.dir/c4/libtest/archetypes.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-std_vector-tsan.dir/test_std_vector.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_vector.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_vector.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-std_string-tsan.dir/test_std_string.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_string.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_string.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-base64-tsan.dir/test_base64.cpp.o -c /opt/jpmag/proj/c4core/test/test_base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-format-tsan.dir/test_format.cpp.o -c /opt/jpmag/proj/c4core/test/test_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-memory_resource-tsan.dir/test_memory_resource.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-szconv-tsan.dir/test_szconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_szconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_szconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-types-tsan.dir/test_types.cpp.o -c /opt/jpmag/proj/c4core/test/test_types.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_types.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-error-tsan.dir/test_error.cpp.o -c /opt/jpmag/proj/c4core/test/test_error.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-error_exception-tsan.dir/test_error_exception.cpp.o -c /opt/jpmag/proj/c4core/test/test_error_exception.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error_exception.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-bitmask-tsan.dir/test_bitmask.cpp.o -c /opt/jpmag/proj/c4core/test/test_bitmask.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_bitmask.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-preprocessor-tsan.dir/test_preprocessor.cpp.o -c /opt/jpmag/proj/c4core/test/test_preprocessor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_preprocessor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-enum-tsan.dir/test_enum.cpp.o -c /opt/jpmag/proj/c4core/test/test_enum.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_enum.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-type_name-tsan.dir/test_type_name.cpp.o -c /opt/jpmag/proj/c4core/test/test_type_name.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_type_name.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-blob-tsan.dir/test_blob.cpp.o -c /opt/jpmag/proj/c4core/test/test_blob.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_blob.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-memory_util-tsan.dir/test_memory_util.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-charconv-tsan.dir/test_charconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-allocator-tsan.dir/test_allocator.cpp.o -c /opt/jpmag/proj/c4core/test/test_allocator.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_allocator.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-ctor_dtor-tsan.dir/test_ctor_dtor.cpp.o -c /opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-chartraits-tsan.dir/test_char_traits.cpp.o -c /opt/jpmag/proj/c4core/test/test_char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-span-tsan.dir/test_span.cpp.o -c /opt/jpmag/proj/c4core/test/test_span.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_span.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-substr-tsan.dir/test_substr.cpp.o -c /opt/jpmag/proj/c4core/test/test_substr.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_substr.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-asan.dir/c4/main.cpp.o -c /opt/jpmag/proj/c4core/test/c4/main.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/main.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-asan.dir/c4/libtest/test.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/test.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/test.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-_libtest-asan.dir/c4/libtest/archetypes.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-std_vector-asan.dir/test_std_vector.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_vector.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_vector.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-base64-asan.dir/test_base64.cpp.o -c /opt/jpmag/proj/c4core/test/test_base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-span-asan.dir/test_span.cpp.o -c /opt/jpmag/proj/c4core/test/test_span.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_span.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-error-asan.dir/test_error.cpp.o -c /opt/jpmag/proj/c4core/test/test_error.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-blob-asan.dir/test_blob.cpp.o -c /opt/jpmag/proj/c4core/test/test_blob.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_blob.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-error_exception-asan.dir/test_error_exception.cpp.o -c /opt/jpmag/proj/c4core/test/test_error_exception.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error_exception.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-preprocessor-asan.dir/test_preprocessor.cpp.o -c /opt/jpmag/proj/c4core/test/test_preprocessor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_preprocessor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-type_name-asan.dir/test_type_name.cpp.o -c /opt/jpmag/proj/c4core/test/test_type_name.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_type_name.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-enum-asan.dir/test_enum.cpp.o -c /opt/jpmag/proj/c4core/test/test_enum.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_enum.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-chartraits-asan.dir/test_char_traits.cpp.o -c /opt/jpmag/proj/c4core/test/test_char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-types-asan.dir/test_types.cpp.o -c /opt/jpmag/proj/c4core/test/test_types.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_types.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-memory_util-asan.dir/test_memory_util.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-format-asan.dir/test_format.cpp.o -c /opt/jpmag/proj/c4core/test/test_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-szconv-asan.dir/test_szconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_szconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_szconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-allocator-asan.dir/test_allocator.cpp.o -c /opt/jpmag/proj/c4core/test/test_allocator.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_allocator.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-charconv-asan.dir/test_charconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-ctor_dtor-asan.dir/test_ctor_dtor.cpp.o -c /opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-memory_resource-asan.dir/test_memory_resource.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-std_string-asan.dir/test_std_string.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_string.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_string.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-bitmask-asan.dir/test_bitmask.cpp.o -c /opt/jpmag/proj/c4core/test/test_bitmask.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_bitmask.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-test-substr-asan.dir/test_substr.cpp.o -c /opt/jpmag/proj/c4core/test/test_substr.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_substr.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-_libtest.dir/c4/main.cpp.o -c /opt/jpmag/proj/c4core/test/c4/main.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/main.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-_libtest.dir/c4/libtest/test.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/test.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/test.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-_libtest.dir/c4/libtest/archetypes.cpp.o -c /opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/c4/libtest/archetypes.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-std_vector.dir/test_std_vector.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_vector.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_vector.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-std_string.dir/test_std_string.cpp.o -c /opt/jpmag/proj/c4core/test/test_std_string.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_std_string.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-base64.dir/test_base64.cpp.o -c /opt/jpmag/proj/c4core/test/test_base64.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_base64.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-format.dir/test_format.cpp.o -c /opt/jpmag/proj/c4core/test/test_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-charconv.dir/test_charconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-blob.dir/test_blob.cpp.o -c /opt/jpmag/proj/c4core/test/test_blob.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_blob.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-memory_resource.dir/test_memory_resource.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_resource.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_resource.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-error.dir/test_error.cpp.o -c /opt/jpmag/proj/c4core/test/test_error.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-types.dir/test_types.cpp.o -c /opt/jpmag/proj/c4core/test/test_types.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_types.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-error_exception.dir/test_error_exception.cpp.o -c /opt/jpmag/proj/c4core/test/test_error_exception.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_error_exception.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-preprocessor.dir/test_preprocessor.cpp.o -c /opt/jpmag/proj/c4core/test/test_preprocessor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_preprocessor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-allocator.dir/test_allocator.cpp.o -c /opt/jpmag/proj/c4core/test/test_allocator.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_allocator.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-chartraits.dir/test_char_traits.cpp.o -c /opt/jpmag/proj/c4core/test/test_char_traits.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_char_traits.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-type_name.dir/test_type_name.cpp.o -c /opt/jpmag/proj/c4core/test/test_type_name.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_type_name.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-szconv.dir/test_szconv.cpp.o -c /opt/jpmag/proj/c4core/test/test_szconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_szconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-memory_util.dir/test_memory_util.cpp.o -c /opt/jpmag/proj/c4core/test/test_memory_util.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_memory_util.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-bitmask.dir/test_bitmask.cpp.o -c /opt/jpmag/proj/c4core/test/test_bitmask.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_bitmask.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-ctor_dtor.dir/test_ctor_dtor.cpp.o -c /opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_ctor_dtor.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-enum.dir/test_enum.cpp.o -c /opt/jpmag/proj/c4core/test/test_enum.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_enum.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-span.dir/test_span.cpp.o -c /opt/jpmag/proj/c4core/test/test_span.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_span.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/test -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-test-substr.dir/test_substr.cpp.o -c /opt/jpmag/proj/c4core/test/test_substr.cpp",
+  "file": "/opt/jpmag/proj/c4core/test/test_substr.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/test/ext/doctest/build",
+  "command": "/usr/bin/clang++ -DDOCTEST_CONFIG_IMPLEMENT_WITH_MAIN -I/home/jpmag/proj/extern/doctest     -m32 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/doctest_with_main.dir/doctest/parts/doctest.cpp.o -c /home/jpmag/proj/extern/doctest/doctest/parts/doctest.cpp",
+  "file": "/home/jpmag/proj/extern/doctest/doctest/parts/doctest.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-format-msan.dir/bm_format.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -o CMakeFiles/ryu_c4.dir/home/jpmag/proj/extern/ryu/ryu/d2fixed.c.o -c /home/jpmag/proj/extern/ryu/ryu/d2fixed.c",
+  "file": "/home/jpmag/proj/extern/ryu/ryu/d2fixed.c"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -o CMakeFiles/ryu_c4.dir/home/jpmag/proj/extern/ryu/ryu/d2s.c.o -c /home/jpmag/proj/extern/ryu/ryu/d2s.c",
+  "file": "/home/jpmag/proj/extern/ryu/ryu/d2s.c"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -o CMakeFiles/ryu_c4.dir/home/jpmag/proj/extern/ryu/ryu/f2s.c.o -c /home/jpmag/proj/extern/ryu/ryu/f2s.c",
+  "file": "/home/jpmag/proj/extern/ryu/ryu/f2s.c"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -o CMakeFiles/ryu_c4.dir/home/jpmag/proj/extern/ryu/ryu/s2d.c.o -c /home/jpmag/proj/extern/ryu/ryu/s2d.c",
+  "file": "/home/jpmag/proj/extern/ryu/ryu/s2d.c"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -o CMakeFiles/ryu_c4.dir/home/jpmag/proj/extern/ryu/ryu/s2f.c.o -c /home/jpmag/proj/extern/ryu/ryu/s2f.c",
+  "file": "/home/jpmag/proj/extern/ryu/ryu/s2f.c"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src/c4/ext/fast_float/include -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-charconv-msan.dir/bm_charconv.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-format-ubsan.dir/bm_format.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src/c4/ext/fast_float/include -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-charconv-ubsan.dir/bm_charconv.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-format-tsan.dir/bm_format.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src/c4/ext/fast_float/include -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-charconv-tsan.dir/bm_charconv.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-format-asan.dir/bm_format.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src/c4/ext/fast_float/include -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-charconv-asan.dir/bm_charconv.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src/c4/ext/fast_float/include -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include -I/home/jpmag/proj/extern/ryu -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-charconv.dir/bm_charconv.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_charconv.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_charconv.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm",
+  "command": "/usr/bin/clang++ -DC4_SUBSTR_NO_OSTREAM_LSHIFT -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-format.dir/bm_format.cpp.o -c /opt/jpmag/proj/c4core/bm/bm_format.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/bm_format.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/benchmark.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/benchmark.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/benchmark.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/benchmark_api_internal.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/benchmark_api_internal.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/benchmark_api_internal.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/benchmark_name.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/benchmark_name.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/benchmark_name.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/benchmark_register.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/benchmark_register.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/benchmark_register.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/benchmark_runner.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/benchmark_runner.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/benchmark_runner.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/colorprint.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/colorprint.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/colorprint.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/commandlineflags.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/commandlineflags.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/commandlineflags.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/complexity.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/complexity.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/complexity.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/console_reporter.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/console_reporter.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/console_reporter.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/counter.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/counter.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/counter.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/csv_reporter.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/csv_reporter.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/csv_reporter.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/json_reporter.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/json_reporter.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/json_reporter.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/reporter.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/reporter.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/reporter.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/sleep.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/sleep.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/sleep.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/statistics.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/statistics.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/statistics.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/string_util.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/string_util.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/string_util.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/sysinfo.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/sysinfo.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/sysinfo.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark.dir/timers.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/timers.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/timers.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/ext/googlebenchmark/build/src",
+  "command": "/usr/bin/clang++ -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/jpmag/proj/extern/googlebenchmark/include -I/home/jpmag/proj/extern/googlebenchmark/src -I/home/jpmag/proj/extern/googlebenchmark/src/../include     -m32 -O3 -DNDEBUG  -Werror  -Wno-deprecated -std=gnu++17 -o CMakeFiles/benchmark_main.dir/benchmark_main.cc.o -c /home/jpmag/proj/extern/googlebenchmark/src/benchmark_main.cc",
+  "file": "/home/jpmag/proj/extern/googlebenchmark/src/benchmark_main.cc"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/subprojects/fp/build",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/jkj_fp_charconv.dir/source/to_chars/to_chars.cpp.o -c /home/jpmag/proj/extern/fp/source/to_chars/to_chars.cpp",
+  "file": "/home/jpmag/proj/extern/fp/source/to_chars/to_chars.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_unlimited-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_unlimited-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-ryu_d-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_limited-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_f-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-baseline-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_limited-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-ryu_f-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_d-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_d-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-std_atof-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-iostream_f-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-iostream_d-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_f-msan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_unlimited-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_limited-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_unlimited-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_f-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-ryu_d-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-baseline-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_d-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_limited-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-std_atof-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-iostream_f-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_f-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_d-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-iostream_d-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-ryu_f-ubsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_unlimited-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_limited-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_limited-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-iostream_f-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-ryu_f-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-ryu_d-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_f-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_f-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-baseline-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_unlimited-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_d-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-iostream_d-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-std_atof-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_d-tsan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_unlimited-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_unlimited-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_limited-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_f-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_f-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_limited-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-baseline-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-iostream_f-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-std_atof-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_d-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-iostream_d-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++       -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_d-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-ryu_f-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/c4core-bm-readfloat-ryu_d-asan.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_FP_D_UNLIMITED=1 -I/opt/jpmag/proj/c4core/src -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_unlimited.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_FP_D_LIMITED=1 -I/opt/jpmag/proj/c4core/src -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_d_limited.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_FP_F_LIMITED=1 -I/opt/jpmag/proj/c4core/src -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_limited.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_FP_F_UNLIMITED=1 -I/opt/jpmag/proj/c4core/src -isystem /home/jpmag/proj/extern/fp/include     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-fast_fp_f_unlimited.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_SSCANF_F=1 -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_f.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_SSCANF_D=1 -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-sscanf_d.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_IOSTREAM_F=1 -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-iostream_f.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_FASTFLOAT_F=1 -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_f.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++  -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-baseline.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_STD_ATOF=1 -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-std_atof.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_RYU_F=1 -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-ryu_f.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_RYU_D=1 -I/opt/jpmag/proj/c4core/src -I/home/jpmag/proj/extern/ryu     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-ryu_d.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_IOSTREAM_D=1 -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-iostream_d.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+},
+{
+  "directory": "/opt/jpmag/proj/c4core/build/linux-x86-clangxx11.0-Release/bm/float",
+  "command": "/usr/bin/clang++ -DC4FLOAT_FASTFLOAT_D=1 -I/opt/jpmag/proj/c4core/src     -m32 -O3 -DNDEBUG -Werror -pedantic-errors -fstrict-aliasing -Wall -Wextra -pedantic -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wdouble-promotion -Wfloat-equal -Wformat=2 -std=c++17 -o CMakeFiles/c4core-bm-readfloat-fast_float_d.dir/read.cpp.o -c /opt/jpmag/proj/c4core/bm/float/read.cpp",
+  "file": "/opt/jpmag/proj/c4core/bm/float/read.cpp"
+}
+]

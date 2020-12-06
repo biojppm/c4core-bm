@@ -1,0 +1,222 @@
+{
+  "context": {
+    "date": "2020-12-05T02:49:45+00:00",
+    "host_name": "mozart",
+    "executable": "./c4core-bm-charconv",
+    "num_cpus": 12,
+    "mhz_per_cpu": 3600,
+    "cpu_scaling_enabled": false,
+    "caches": [
+      {
+        "type": "Data",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Instruction",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 2,
+        "size": 262144,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 3,
+        "size": 15728640,
+        "num_sharing": 12
+      }
+    ],
+    "load_avg": [1.21,1.37,1.33],
+    "library_build_type": "release"
+  },
+  "benchmarks": [
+    {
+      "name": "atox_c4_atof<float>",
+      "run_name": "atox_c4_atof<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 9193127,
+      "real_time": 7.6153421137405530e+01,
+      "cpu_time": 7.6043142012505641e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 5.2601719157556400e+07,
+      "items_per_second": 1.3150429789389100e+07
+    },
+    {
+      "name": "atox_c4_atox<float>",
+      "run_name": "atox_c4_atox<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 9201416,
+      "real_time": 7.6272389162634738e+01,
+      "cpu_time": 7.6157648127201284e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 5.2522630338046342e+07,
+      "items_per_second": 1.3130657584511586e+07
+    },
+    {
+      "name": "atox_c4_from_chars<float>",
+      "run_name": "atox_c4_from_chars<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 8972545,
+      "real_time": 7.8271080612779485e+01,
+      "cpu_time": 7.8152651115151841e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 5.1181884976701707e+07,
+      "items_per_second": 1.2795471244175427e+07
+    },
+    {
+      "name": "atox_ryu_s2f<float>",
+      "run_name": "atox_ryu_s2f<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 6703793,
+      "real_time": 1.0457518363100490e+02,
+      "cpu_time": 1.0442493585347876e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 3.8305027121228024e+07,
+      "items_per_second": 9.5762567803070061e+06
+    },
+    {
+      "name": "atox_fast_float<float>",
+      "run_name": "atox_fast_float<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 9285443,
+      "real_time": 7.5558844957756676e+01,
+      "cpu_time": 7.5441592285903909e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 5.3021150254107125e+07,
+      "items_per_second": 1.3255287563526781e+07
+    },
+    {
+      "name": "atox_fp_from_chars_limited<float>",
+      "run_name": "atox_fp_from_chars_limited<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 6651026,
+      "real_time": 1.0546812446689009e+02,
+      "cpu_time": 1.0530731664558229e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 3.7984065375649311e+07,
+      "items_per_second": 9.4960163439123277e+06
+    },
+    {
+      "name": "atox_fp_from_chars_unlimited<float>",
+      "run_name": "atox_fp_from_chars_unlimited<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 4539111,
+      "real_time": 1.5398730566374775e+02,
+      "cpu_time": 1.5375685150682597e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 2.6015100860870719e+07,
+      "items_per_second": 6.5037752152176797e+06
+    },
+    {
+      "name": "atox_std_atof<float>",
+      "run_name": "atox_std_atof<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 37560343,
+      "real_time": 1.8657557520165259e+01,
+      "cpu_time": 1.8636532898541450e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 2.1463219697441962e+08,
+      "items_per_second": 5.3658049243604906e+07
+    },
+    {
+      "name": "atox_std_strtof<float>",
+      "run_name": "atox_std_strtof<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1644538,
+      "real_time": 4.2673453273775391e+02,
+      "cpu_time": 4.2619605688649335e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 9.3853519650588892e+06,
+      "items_per_second": 2.3463379912647223e+06
+    },
+    {
+      "name": "atox_std_stof<float>",
+      "run_name": "atox_std_stof<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1606731,
+      "real_time": 4.3452346285716698e+02,
+      "cpu_time": 4.3398632627365839e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 9.2168802513785269e+06,
+      "items_per_second": 2.3042200628446317e+06
+    },
+    {
+      "name": "atox_scanf<float>",
+      "run_name": "atox_scanf<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 897110,
+      "real_time": 7.8390893089981023e+02,
+      "cpu_time": 7.8289778845403544e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 5.1092237824540017e+06,
+      "items_per_second": 1.2773059456135004e+06
+    },
+    {
+      "name": "atox_sstream<float>",
+      "run_name": "atox_sstream<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 300815,
+      "real_time": 2.3299552848032995e+03,
+      "cpu_time": 2.3272679620364702e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 1.7187535192551743e+06,
+      "items_per_second": 4.2968837981379358e+05
+    },
+    {
+      "name": "atox_sstream_reuse<float>",
+      "run_name": "atox_sstream_reuse<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 726308,
+      "real_time": 9.6550334430996077e+02,
+      "cpu_time": 9.6444198879814155e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 4.1474759979961873e+06,
+      "items_per_second": 1.0368689994990468e+06
+    }
+  ]
+}

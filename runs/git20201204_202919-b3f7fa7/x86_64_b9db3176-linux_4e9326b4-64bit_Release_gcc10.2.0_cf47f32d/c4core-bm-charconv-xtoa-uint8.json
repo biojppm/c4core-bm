@@ -1,0 +1,138 @@
+{
+  "context": {
+    "date": "2020-12-04T23:59:30+00:00",
+    "host_name": "mozart",
+    "executable": "./c4core-bm-charconv",
+    "num_cpus": 12,
+    "mhz_per_cpu": 3600,
+    "cpu_scaling_enabled": false,
+    "caches": [
+      {
+        "type": "Data",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Instruction",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 2,
+        "size": 262144,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 3,
+        "size": 15728640,
+        "num_sharing": 12
+      }
+    ],
+    "load_avg": [1.74,1.99,1.49],
+    "library_build_type": "release"
+  },
+  "benchmarks": [
+    {
+      "name": "xtoa_c4_utoa<uint8_t>",
+      "run_name": "xtoa_c4_utoa<uint8_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 41750178,
+      "real_time": 1.6818907526568704e+01,
+      "cpu_time": 1.6797937723762519e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 5.9531117238599516e+07,
+      "items_per_second": 5.9531117238599516e+07
+    },
+    {
+      "name": "xtoa_c4_xtoa<uint8_t>",
+      "run_name": "xtoa_c4_xtoa<uint8_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 31476370,
+      "real_time": 2.2315334614506693e+01,
+      "cpu_time": 2.2288815737011607e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 4.4865551036857195e+07,
+      "items_per_second": 4.4865551036857195e+07
+    },
+    {
+      "name": "xtoa_c4_to_chars<uint8_t>",
+      "run_name": "xtoa_c4_to_chars<uint8_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 42003318,
+      "real_time": 1.6663991973143144e+01,
+      "cpu_time": 1.6645215289896857e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 6.0077324479363739e+07,
+      "items_per_second": 6.0077324479363739e+07
+    },
+    {
+      "name": "xtoa_std_to_string<uint8_t>",
+      "run_name": "xtoa_std_to_string<uint8_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 41082814,
+      "real_time": 1.7016082247888694e+01,
+      "cpu_time": 1.6994533602299001e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 5.8842450366788603e+07,
+      "items_per_second": 5.8842450366788603e+07
+    },
+    {
+      "name": "xtoa_sprintf<uint8_t>",
+      "run_name": "xtoa_sprintf<uint8_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 3942836,
+      "real_time": 1.7822807923056286e+02,
+      "cpu_time": 1.7803856640245755e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 5.6167605716364412e+06,
+      "items_per_second": 5.6167605716364412e+06
+    },
+    {
+      "name": "xtoa_sstream_reuse<uint8_t>",
+      "run_name": "xtoa_sstream_reuse<uint8_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 9968062,
+      "real_time": 7.0496543460321007e+01,
+      "cpu_time": 7.0410303828367091e+01,
+      "time_unit": "ns",
+      "bytes_per_second": 1.4202466764489623e+07,
+      "items_per_second": 1.4202466764489623e+07
+    },
+    {
+      "name": "xtoa_sstream<uint8_t>",
+      "run_name": "xtoa_sstream<uint8_t>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 774277,
+      "real_time": 9.0767448471357625e+02,
+      "cpu_time": 9.0655879872448736e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 1.1030724111960337e+06,
+      "items_per_second": 1.1030724111960337e+06
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+projname: c4core
+url: https://github.com/biojppm/c4core
+
+.format: &FORMAT
+  target: c4core-bm-format
+  src: bm/bm_format.cpp
+
+.charconv: &CHARCONV
+  target: c4core-bm-charconv
+  src: bm/bm_charconv.cpp
+  variants: [uint8, int8, uint16, int16, uint32, int32, uint64, int64, float, double]
+
+bm:
+  c4core-bm-charconv-atox:
+    desc: string to value
+    dir: charconv/atox
+    <<: *CHARCONV
+  c4core-bm-charconv-xtoa:
+    desc: value to string
+    dir: charconv/xtoa
+    <<: *CHARCONV
+  c4core-bm-format-cat:
+    desc: stringification of a sequence of objects
+    dir: format/cat
+    <<: *FORMAT
+  c4core-bm-format-catsep:
+    desc: separated stringification of a sequence of objects
+    dir: format/catsep
+    <<: *FORMAT
+  c4core-bm-format-format:
+    desc: string interpolation with a sequence of objects
+    dir: format/format
+    <<: *FORMAT

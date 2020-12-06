@@ -1,0 +1,138 @@
+{
+  "context": {
+    "date": "2020-12-05T02:57:33+00:00",
+    "host_name": "mozart",
+    "executable": "./c4core-bm-format",
+    "num_cpus": 12,
+    "mhz_per_cpu": 3600,
+    "cpu_scaling_enabled": false,
+    "caches": [
+      {
+        "type": "Data",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Instruction",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 2,
+        "size": 262144,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 3,
+        "size": 15728640,
+        "num_sharing": 12
+      }
+    ],
+    "load_avg": [1.35,1.33,1.33],
+    "library_build_type": "release"
+  },
+  "benchmarks": [
+    {
+      "name": "cat_c4cat_substr",
+      "run_name": "cat_c4cat_substr",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 855997,
+      "real_time": 8.1746446541084401e+02,
+      "cpu_time": 8.1663571484479496e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 9.6738360279790446e+07,
+      "items_per_second": 1.2245362060732967e+06
+    },
+    {
+      "name": "cat_c4catrs_reuse",
+      "run_name": "cat_c4catrs_reuse",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 854197,
+      "real_time": 8.2794964861787957e+02,
+      "cpu_time": 8.2695288323419527e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 9.5531440305320263e+07,
+      "items_per_second": 1.2092587380420286e+06
+    },
+    {
+      "name": "cat_c4catrs_no_reuse",
+      "run_name": "cat_c4catrs_no_reuse",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 454955,
+      "real_time": 1.6303651108368342e+03,
+      "cpu_time": 1.6238098603158560e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 4.8651016310883403e+07,
+      "items_per_second": 6.1583564950485318e+05
+    },
+    {
+      "name": "cat_std_to_string_reuse",
+      "run_name": "cat_std_to_string_reuse",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 693469,
+      "real_time": 1.0226356462925339e+03,
+      "cpu_time": 1.0211954622340724e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 7.7360312419692382e+07,
+      "items_per_second": 9.7924446100876422e+05
+    },
+    {
+      "name": "cat_std_to_string_no_reuse",
+      "run_name": "cat_std_to_string_no_reuse",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 588704,
+      "real_time": 1.1897866279170271e+03,
+      "cpu_time": 1.1885526852204162e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 6.6467394321144052e+07,
+      "items_per_second": 8.4135942178663355e+05
+    },
+    {
+      "name": "cat_stdsstream_reuse",
+      "run_name": "cat_stdsstream_reuse",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 359574,
+      "real_time": 1.9795050337294067e+03,
+      "cpu_time": 1.9774993770406093e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 3.9949443684895627e+07,
+      "items_per_second": 5.0568916056829912e+05
+    },
+    {
+      "name": "cat_stdsstream_no_reuse",
+      "run_name": "cat_stdsstream_no_reuse",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 201147,
+      "real_time": 3.5423853301379017e+03,
+      "cpu_time": 3.5370722406995892e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 2.2334856238156669e+07,
+      "items_per_second": 2.8271969921717304e+05
+    }
+  ]
+}

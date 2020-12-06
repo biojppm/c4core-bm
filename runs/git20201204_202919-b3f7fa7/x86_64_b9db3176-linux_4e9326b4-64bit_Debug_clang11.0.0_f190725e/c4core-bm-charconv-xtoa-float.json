@@ -1,0 +1,152 @@
+{
+  "context": {
+    "date": "2020-12-05T00:13:54+00:00",
+    "host_name": "mozart",
+    "executable": "./c4core-bm-charconv",
+    "num_cpus": 12,
+    "mhz_per_cpu": 3600,
+    "cpu_scaling_enabled": false,
+    "caches": [
+      {
+        "type": "Data",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Instruction",
+        "level": 1,
+        "size": 32768,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 2,
+        "size": 262144,
+        "num_sharing": 2
+      },
+      {
+        "type": "Unified",
+        "level": 3,
+        "size": 15728640,
+        "num_sharing": 12
+      }
+    ],
+    "load_avg": [1.5,1.59,1.51],
+    "library_build_type": "debug"
+  },
+  "benchmarks": [
+    {
+      "name": "xtoa_c4_ftoa<float>",
+      "run_name": "xtoa_c4_ftoa<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 727640,
+      "real_time": 9.5548070474095391e+02,
+      "cpu_time": 9.5425557830795447e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 4.1917491403012075e+06,
+      "items_per_second": 1.0479372850753019e+06
+    },
+    {
+      "name": "xtoa_c4_xtoa<float>",
+      "run_name": "xtoa_c4_xtoa<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 721175,
+      "real_time": 9.6605613062198063e+02,
+      "cpu_time": 9.6493415883800742e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 4.1453605547728543e+06,
+      "items_per_second": 1.0363401386932136e+06
+    },
+    {
+      "name": "xtoa_c4_to_chars<float>",
+      "run_name": "xtoa_c4_to_chars<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 715216,
+      "real_time": 9.7314595590672889e+02,
+      "cpu_time": 9.7168592285407487e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 4.1165564982675053e+06,
+      "items_per_second": 1.0291391245668763e+06
+    },
+    {
+      "name": "xtoa_ryu_f2s<float>",
+      "run_name": "xtoa_ryu_f2s<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1550642,
+      "real_time": 4.3638138009801662e+02,
+      "cpu_time": 4.3581198755096278e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 9.1782697912416887e+06,
+      "items_per_second": 2.2945674478104222e+06
+    },
+    {
+      "name": "xtoa_std_to_string<float>",
+      "run_name": "xtoa_std_to_string<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 869650,
+      "real_time": 8.1741079054698696e+02,
+      "cpu_time": 8.1532314724314369e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 4.9060302206863873e+06,
+      "items_per_second": 1.2265075551715968e+06
+    },
+    {
+      "name": "xtoa_sprintf<float>",
+      "run_name": "xtoa_sprintf<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 1066992,
+      "real_time": 6.7278188309065479e+02,
+      "cpu_time": 6.7048471497443279e+02,
+      "time_unit": "ns",
+      "bytes_per_second": 5.9658332407361884e+06,
+      "items_per_second": 1.4914583101840471e+06
+    },
+    {
+      "name": "xtoa_sstream_reuse<float>",
+      "run_name": "xtoa_sstream_reuse<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 672257,
+      "real_time": 1.0359406670389319e+03,
+      "cpu_time": 1.0345749051330081e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 3.8663222741573728e+06,
+      "items_per_second": 9.6658056853934319e+05
+    },
+    {
+      "name": "xtoa_sstream<float>",
+      "run_name": "xtoa_sstream<float>",
+      "run_type": "iteration",
+      "repetitions": 0,
+      "repetition_index": 0,
+      "threads": 1,
+      "iterations": 368959,
+      "real_time": 1.9025916782051979e+03,
+      "cpu_time": 1.9000173975970235e+03,
+      "time_unit": "ns",
+      "bytes_per_second": 2.1052438809554330e+06,
+      "items_per_second": 5.2631097023885825e+05
+    }
+  ]
+}
