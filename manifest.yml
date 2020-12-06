@@ -13,6 +13,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: &id001
       desc: string to value
       dir: charconv/atox
@@ -43,6 +46,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id001
   c4core-bm-charconv-atox-int16:
     entries:
@@ -58,6 +64,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id001
   c4core-bm-charconv-atox-int32:
     entries:
@@ -73,6 +82,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id001
   c4core-bm-charconv-atox-int64:
     entries:
@@ -88,6 +100,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id001
   c4core-bm-charconv-atox-int8:
     entries:
@@ -103,6 +118,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id001
   c4core-bm-charconv-atox-uint16:
     entries:
@@ -118,6 +136,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id001
   c4core-bm-charconv-atox-uint32:
     entries:
@@ -133,6 +154,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id001
   c4core-bm-charconv-atox-uint64:
     entries:
@@ -148,6 +172,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id001
   c4core-bm-charconv-atox-uint8:
     entries:
@@ -163,6 +190,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id001
   c4core-bm-charconv-xtoa-double:
     entries:
@@ -178,6 +208,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: &id003
       desc: value to string
       dir: charconv/xtoa
@@ -198,6 +231,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id003
   c4core-bm-charconv-xtoa-int16:
     entries:
@@ -213,6 +249,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id003
   c4core-bm-charconv-xtoa-int32:
     entries:
@@ -228,6 +267,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id003
   c4core-bm-charconv-xtoa-int64:
     entries:
@@ -243,6 +285,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id003
   c4core-bm-charconv-xtoa-int8:
     entries:
@@ -258,6 +303,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id003
   c4core-bm-charconv-xtoa-uint16:
     entries:
@@ -273,6 +321,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id003
   c4core-bm-charconv-xtoa-uint32:
     entries:
@@ -288,6 +339,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id003
   c4core-bm-charconv-xtoa-uint64:
     entries:
@@ -303,6 +357,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id003
   c4core-bm-charconv-xtoa-uint8:
     entries:
@@ -318,6 +375,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs: *id003
   c4core-bm-format-cat:
     entries:
@@ -333,6 +393,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs:
       desc: stringification of a sequence of objects
       dir: format/cat
@@ -352,6 +415,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs:
       desc: separated stringification of a sequence of objects
       dir: format/catsep
@@ -371,6 +437,9 @@ bm:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_gcc10.2.0_10c5d03c
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_clang11.0.0_d06ec87b
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_MinSizeRel_gcc10.2.0_da3b4a69
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
     specs:
       desc: string interpolation with a sequence of objects
       dir: format/format
@@ -384,6 +453,18 @@ build:
   10c5d315:
     entries:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-32bit_Debug_gcc10.2.0_10c5d315
+    specs: {}
+  2ed699c6:
+    entries:
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    specs: {}
+  32f6fc66:
+    entries:
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
+    specs: {}
+  42e497b7:
+    entries:
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
     specs: {}
   cf47f32d:
     entries:
@@ -426,6 +507,22 @@ build:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-64bit_Debug_clang11.0.0_f190725e
     specs: {}
 commit:
+  2974fb0:
+    entries:
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
+    specs:
+      author: Joao Paulo Magalhaes
+      authored_datetime: '2020-12-03 19:33:48+00:00'
+      committed_datetime: '2020-12-03 19:33:48+00:00'
+      committer: Joao Paulo Magalhaes
+      message: 'fix: dev: charconv bm was missing int64_t'
+      name_rev: 2974fb094e6d640353ab91d9a1b2b638391352d7 master
+      sha1: 2974fb0
+      storage_id: 2974fb0
+      storage_name: git20201203_193348-2974fb0
+      summary: 'fix: dev: charconv bm was missing int64_t'
   b3f7fa7:
     entries:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-32bit_Release_clang11.0.0_d0b12931
@@ -452,6 +549,117 @@ commit:
       storage_name: git20201204_202919-b3f7fa7
       summary: 'fix: dev: break some conditionals to expose coverage misses'
 cpu:
+  16ac0500:
+    entries:
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
+    specs:
+      arch: X86_64
+      arch_string_raw: AMD64
+      bits: 64
+      brand_raw: Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz
+      count: 12
+      cpuinfo_version:
+      - 7
+      - 0
+      - 0
+      cpuinfo_version_string: 7.0.0
+      family: 6
+      flags:
+      - 3dnow
+      - 3dnowprefetch
+      - abm
+      - acpi
+      - adx
+      - aes
+      - apic
+      - avx
+      - avx2
+      - bmi1
+      - bmi2
+      - clflush
+      - cmov
+      - cx16
+      - cx8
+      - dca
+      - de
+      - ds_cpl
+      - dtes64
+      - dts
+      - erms
+      - est
+      - f16c
+      - fma
+      - fpu
+      - fxsr
+      - hle
+      - ht
+      - ia64
+      - intel_pt
+      - invpcid
+      - lahf_lm
+      - mca
+      - mce
+      - mmx
+      - monitor
+      - movbe
+      - msr
+      - mtrr
+      - osxsave
+      - pae
+      - pat
+      - pbe
+      - pcid
+      - pclmulqdq
+      - pdcm
+      - pge
+      - pni
+      - popcnt
+      - pqe
+      - pqm
+      - pse
+      - pse36
+      - rdrnd
+      - rdseed
+      - rtm
+      - sep
+      - serial
+      - smap
+      - smep
+      - ss
+      - sse
+      - sse2
+      - sse4_1
+      - sse4_2
+      - ssse3
+      - tm
+      - tm2
+      - tsc
+      - tscdeadline
+      - vme
+      - vmx
+      - x2apic
+      - xsave
+      - xtpr
+      hardware_raw: ''
+      hz_actual:
+      - 3401000000
+      - 0
+      hz_actual_friendly: 3.4010 GHz
+      hz_advertised:
+      - 3400000000
+      - 0
+      hz_advertised_friendly: 3.4000 GHz
+      l2_cache_associativity: 6
+      l2_cache_line_size: 256
+      l2_cache_size: 1572864
+      l3_cache_size: 15728640
+      model: 79
+      stepping: 1
+      storage_id: 16ac0500
+      storage_name: x86_64_16ac0500
+      vendor_id_raw: GenuineIntel
   b9db3176:
     entries:
     - git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-32bit_Release_clang11.0.0_d0b12931
@@ -615,6 +823,21 @@ cpu:
       storage_name: x86_64_b9db3176
       vendor_id_raw: GenuineIntel
 runs:
+  git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7:
+    build: 42e497b7
+    commit: 2974fb0
+    cpu: 16ac0500
+    system: 59f3579c
+  git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66:
+    build: 32f6fc66
+    commit: 2974fb0
+    cpu: 16ac0500
+    system: 59f3579c
+  git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6:
+    build: 2ed699c6
+    commit: 2974fb0
+    cpu: 16ac0500
+    system: 59f3579c
   git20201204_202919-b3f7fa7/x86_64_b9db3176-linux_4e9326b4-32bit_Debug_clang11.0.0_f1904d0c:
     build: f1904d0c
     commit: b3f7fa7
@@ -701,3 +924,19 @@ system:
         release: 5.9.11-arch2-1
         system: Linux
         version: '#1 SMP PREEMPT Sat, 28 Nov 2020 02:07:22 +0000'
+  59f3579c:
+    entries:
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Release_msvc19.28.29304.1_2ed699c6
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_Debug_msvc19.28.29304.1_42e497b7
+    - git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
+    specs:
+      storage_id: 59f3579c
+      storage_name: win32_59f3579c
+      sys: Windows
+      sys_platform: win32
+      uname:
+        machine: AMD64
+        node: mozart
+        release: '10'
+        system: Windows
+        version: 10.0.18362

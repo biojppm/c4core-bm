@@ -1,0 +1,464 @@
+build:
+  BENCHMARK_BUILD_32_BITS: 'OFF'
+  BENCHMARK_DOWNLOAD_DEPENDENCIES: 'OFF'
+  BENCHMARK_ENABLE_ASSEMBLY_TESTS: 'OFF'
+  BENCHMARK_ENABLE_EXCEPTIONS: 'OFF'
+  BENCHMARK_ENABLE_GTEST_TESTS: 'ON'
+  BENCHMARK_ENABLE_INSTALL: 'ON'
+  BENCHMARK_ENABLE_LTO: 'OFF'
+  BENCHMARK_ENABLE_TESTING: 'OFF'
+  BENCHMARK_USE_LIBCXX: 'OFF'
+  C4CORE_BM_FLOAT_CMP: 'ON'
+  C4CORE_BUILD_BENCHMARKS: 'ON'
+  C4CORE_BUILD_DOCS: 'ON'
+  C4CORE_BUILD_TESTS: 'ON'
+  C4CORE_CXX_FLAGS: ''
+  C4CORE_DEV: 'ON'
+  C4CORE_PEDANTIC: 'ON'
+  C4CORE_STRICT_ALIASING: 'ON'
+  C4CORE_WERROR: 'ON'
+  C4_ADD_EXTS: natvis
+  C4_CXX_STANDARDS: 20;17;14;11
+  C4_CXX_STANDARD_DEFAULT: '11'
+  C4_DBG_ENABLED: 'OFF'
+  C4_DEV: 'OFF'
+  C4_EXTERN_DIR: D:/proj/extern
+  C4_GEN_HDR_EXT: hpp
+  C4_GEN_SRC_EXT: cpp
+  C4_HDR_EXTS: h;hpp;hh;h++;hxx
+  C4_LIBRARY_TYPE: ''
+  C4_SOURCE_TRANSFORM: NONE
+  C4_SRC_EXTS: c;cpp;cc;c++;cxx;cu;
+  CMAKE_AR: ''
+  CMAKE_BUILD_TYPE: MinSizeRel
+  CMAKE_C11_COMPILE_FEATURES: c_std_11
+  CMAKE_C90_COMPILE_FEATURES: c_std_90;c_function_prototypes
+  CMAKE_C99_COMPILE_FEATURES: c_std_99;c_variadic_macros
+  CMAKE_CACHEFILE_DIR: d:/proj/c4core/build/windows-x86_64-vs2019-MinSizeRel
+  CMAKE_CACHE_MAJOR_VERSION: '3'
+  CMAKE_CACHE_MINOR_VERSION: '16'
+  CMAKE_CACHE_PATCH_VERSION: '1'
+  CMAKE_CL_SHOWINCLUDES_PREFIX: ${CMAKE_CXX_CL_SHOWINCLUDES_PREFIX}
+  CMAKE_COMMAND: C:/Program Files/CMake/bin/cmake.exe
+  CMAKE_COMPILER_IS_CYGWIN: ''
+  CMAKE_COMPILER_IS_GNUCC: ''
+  CMAKE_COMPILER_IS_GNUCXX: ''
+  CMAKE_COMPILER_IS_MINGW: ''
+  CMAKE_CONFIGURATION_TYPES: Debug;Release;MinSizeRel;RelWithDebInfo
+  CMAKE_CPACK_COMMAND: C:/Program Files/CMake/bin/cpack.exe
+  CMAKE_CTEST_COMMAND: C:/Program Files/CMake/bin/ctest.exe
+  CMAKE_CXX11_COMPILE_FEATURES: cxx_std_11;cxx_alias_templates;cxx_alignas;cxx_alignof;cxx_attributes;cxx_auto_type;cxx_constexpr;cxx_decltype;cxx_decltype_incomplete_return_types;cxx_default_function_template_args;cxx_defaulted_functions;cxx_defaulted_move_initializers;cxx_delegating_constructors;cxx_deleted_functions;cxx_enum_forward_declarations;cxx_explicit_conversions;cxx_extended_friend_declarations;cxx_extern_templates;cxx_final;cxx_func_identifier;cxx_generalized_initializers;cxx_inheriting_constructors;cxx_inline_namespaces;cxx_lambdas;cxx_local_type_template_args;cxx_long_long_type;cxx_noexcept;cxx_nonstatic_member_init;cxx_nullptr;cxx_override;cxx_range_for;cxx_raw_string_literals;cxx_reference_qualified_functions;cxx_right_angle_brackets;cxx_rvalue_references;cxx_sizeof_member;cxx_static_assert;cxx_strong_enums;cxx_thread_local;cxx_trailing_return_types;cxx_unicode_literals;cxx_uniform_initialization;cxx_unrestricted_unions;cxx_user_literals;cxx_variadic_macros;cxx_variadic_templates
+  CMAKE_CXX14_COMPILE_FEATURES: cxx_std_14;cxx_aggregate_default_initializers;cxx_attribute_deprecated;cxx_binary_literals;cxx_contextual_conversions;cxx_decltype_auto;cxx_digit_separators;cxx_generic_lambdas;cxx_lambda_init_captures;cxx_relaxed_constexpr;cxx_return_type_deduction;cxx_variable_templates
+  CMAKE_CXX17_COMPILE_FEATURES: cxx_std_17
+  CMAKE_CXX20_COMPILE_FEATURES: cxx_std_20
+  CMAKE_CXX98_COMPILE_FEATURES: cxx_std_98;cxx_template_template_parameters
+  CMAKE_CXX_ABI_COMPILED: 'TRUE'
+  CMAKE_CXX_CL_SHOWINCLUDES_PREFIX: ''
+  CMAKE_CXX_COMPILER "C:/Program Files (x86)/Microsoft Visual: Studio/2019/Preview/VC/Tools/MSVC/14.28.29304/bin/Hostx64/x64/cl.exe
+  CMAKE_CXX_COMPILER_ABI: ''
+  CMAKE_CXX_COMPILER_AR: ''
+  CMAKE_CXX_COMPILER_ARCHITECTURE_ID: x64
+  CMAKE_CXX_COMPILER_ARG1: ''
+  CMAKE_CXX_COMPILER_ENV_VAR: CXX
+  CMAKE_CXX_COMPILER_FRONTEND_VARIANT: ''
+  CMAKE_CXX_COMPILER_ID: MSVC
+  CMAKE_CXX_COMPILER_ID_RUN: '1'
+  CMAKE_CXX_COMPILER_LOADED: '1'
+  CMAKE_CXX_COMPILER_RANLIB: ''
+  CMAKE_CXX_COMPILER_VERSION: 19.28.29304.1
+  CMAKE_CXX_COMPILER_VERSION_INTERNAL: ''
+  CMAKE_CXX_COMPILER_WORKS: 'TRUE'
+  CMAKE_CXX_COMPILER_WRAPPER: ''
+  CMAKE_CXX_COMPILE_FEATURES: cxx_std_98;cxx_template_template_parameters;cxx_std_11;cxx_alias_templates;cxx_alignas;cxx_alignof;cxx_attributes;cxx_auto_type;cxx_constexpr;cxx_decltype;cxx_decltype_incomplete_return_types;cxx_default_function_template_args;cxx_defaulted_functions;cxx_defaulted_move_initializers;cxx_delegating_constructors;cxx_deleted_functions;cxx_enum_forward_declarations;cxx_explicit_conversions;cxx_extended_friend_declarations;cxx_extern_templates;cxx_final;cxx_func_identifier;cxx_generalized_initializers;cxx_inheriting_constructors;cxx_inline_namespaces;cxx_lambdas;cxx_local_type_template_args;cxx_long_long_type;cxx_noexcept;cxx_nonstatic_member_init;cxx_nullptr;cxx_override;cxx_range_for;cxx_raw_string_literals;cxx_reference_qualified_functions;cxx_right_angle_brackets;cxx_rvalue_references;cxx_sizeof_member;cxx_static_assert;cxx_strong_enums;cxx_thread_local;cxx_trailing_return_types;cxx_unicode_literals;cxx_uniform_initialization;cxx_unrestricted_unions;cxx_user_literals;cxx_variadic_macros;cxx_variadic_templates;cxx_std_14;cxx_aggregate_default_initializers;cxx_attribute_deprecated;cxx_binary_literals;cxx_contextual_conversions;cxx_decltype_auto;cxx_digit_separators;cxx_generic_lambdas;cxx_lambda_init_captures;cxx_relaxed_constexpr;cxx_return_type_deduction;cxx_variable_templates;cxx_std_17;cxx_std_20
+  CMAKE_CXX_FLAGS: /DWIN32 /D_WINDOWS /GR /EHsc
+  CMAKE_CXX_FLAGS-ADVANCED: '1'
+  CMAKE_CXX_FLAGS_DEBUG: /MDd /Zi /Ob0 /Od /RTC1
+  CMAKE_CXX_FLAGS_DEBUG-ADVANCED: '1'
+  CMAKE_CXX_FLAGS_MINSIZEREL: /MD /O1 /Ob1 /DNDEBUG
+  CMAKE_CXX_FLAGS_MINSIZEREL-ADVANCED: '1'
+  CMAKE_CXX_FLAGS_RELEASE: /MD /O2 /Ob2 /DNDEBUG
+  CMAKE_CXX_FLAGS_RELEASE-ADVANCED: '1'
+  CMAKE_CXX_FLAGS_RELWITHDEBINFO: /MD /Zi /O2 /Ob1 /DNDEBUG
+  CMAKE_CXX_FLAGS_RELWITHDEBINFO-ADVANCED: '1'
+  CMAKE_CXX_IGNORE_EXTENSIONS: inl;h;hpp;HPP;H;o;O;obj;OBJ;def;DEF;rc;RC
+  CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES: ''
+  CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES: ''
+  CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES: ''
+  CMAKE_CXX_IMPLICIT_LINK_LIBRARIES: ''
+  CMAKE_CXX_LIBRARY_ARCHITECTURE: ''
+  CMAKE_CXX_LINKER_PREFERENCE: '30'
+  CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES: '1'
+  CMAKE_CXX_PLATFORM_ID: Windows
+  CMAKE_CXX_SIMULATE_ID: ''
+  CMAKE_CXX_SIMULATE_VERSION: ''
+  CMAKE_CXX_SIZEOF_DATA_PTR: '8'
+  CMAKE_CXX_SOURCE_FILE_EXTENSIONS: C;M;c++;cc;cpp;cxx;m;mm;CPP
+  CMAKE_CXX_STANDARD_COMPUTED_DEFAULT: '14'
+  CMAKE_CXX_STANDARD_LIBRARIES: kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib
+    ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  CMAKE_CXX_STANDARD_LIBRARIES-ADVANCED: '1'
+  CMAKE_C_ABI_COMPILED: 'TRUE'
+  CMAKE_C_CL_SHOWINCLUDES_PREFIX: ''
+  CMAKE_C_COMPILER "C:/Program Files (x86)/Microsoft Visual: Studio/2019/Preview/VC/Tools/MSVC/14.28.29304/bin/Hostx64/x64/cl.exe
+  CMAKE_C_COMPILER_ABI: ''
+  CMAKE_C_COMPILER_AR: ''
+  CMAKE_C_COMPILER_ARCHITECTURE_ID: x64
+  CMAKE_C_COMPILER_ARG1: ''
+  CMAKE_C_COMPILER_ENV_VAR: CC
+  CMAKE_C_COMPILER_FRONTEND_VARIANT: ''
+  CMAKE_C_COMPILER_ID: MSVC
+  CMAKE_C_COMPILER_ID_RUN: '1'
+  CMAKE_C_COMPILER_LOADED: '1'
+  CMAKE_C_COMPILER_RANLIB: ''
+  CMAKE_C_COMPILER_VERSION: 19.28.29304.1
+  CMAKE_C_COMPILER_VERSION_INTERNAL: ''
+  CMAKE_C_COMPILER_WORKS: 'TRUE'
+  CMAKE_C_COMPILER_WRAPPER: ''
+  CMAKE_C_COMPILE_FEATURES: c_std_90;c_std_99;c_std_11;c_function_prototypes;c_variadic_macros
+  CMAKE_C_FLAGS: /DWIN32 /D_WINDOWS
+  CMAKE_C_FLAGS-ADVANCED: '1'
+  CMAKE_C_FLAGS_DEBUG: /MDd /Zi /Ob0 /Od /RTC1
+  CMAKE_C_FLAGS_DEBUG-ADVANCED: '1'
+  CMAKE_C_FLAGS_MINSIZEREL: /MD /O1 /Ob1 /DNDEBUG
+  CMAKE_C_FLAGS_MINSIZEREL-ADVANCED: '1'
+  CMAKE_C_FLAGS_RELEASE: /MD /O2 /Ob2 /DNDEBUG
+  CMAKE_C_FLAGS_RELEASE-ADVANCED: '1'
+  CMAKE_C_FLAGS_RELWITHDEBINFO: /MD /Zi /O2 /Ob1 /DNDEBUG
+  CMAKE_C_FLAGS_RELWITHDEBINFO-ADVANCED: '1'
+  CMAKE_C_IGNORE_EXTENSIONS: h;H;o;O;obj;OBJ;def;DEF;rc;RC
+  CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES: ''
+  CMAKE_C_IMPLICIT_LINK_DIRECTORIES: ''
+  CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES: ''
+  CMAKE_C_IMPLICIT_LINK_LIBRARIES: ''
+  CMAKE_C_LIBRARY_ARCHITECTURE: ''
+  CMAKE_C_LINKER_PREFERENCE: '10'
+  CMAKE_C_PLATFORM_ID: Windows
+  CMAKE_C_SIMULATE_ID: ''
+  CMAKE_C_SIMULATE_VERSION: ''
+  CMAKE_C_SIZEOF_DATA_PTR: '8'
+  CMAKE_C_SOURCE_FILE_EXTENSIONS: c;m
+  CMAKE_C_STANDARD_COMPUTED_DEFAULT: '90'
+  CMAKE_C_STANDARD_LIBRARIES: kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib
+    ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  CMAKE_C_STANDARD_LIBRARIES-ADVANCED: '1'
+  CMAKE_EXECUTABLE_FORMAT: Unknown
+  CMAKE_EXE_LINKER_FLAGS: /machine:x64
+  CMAKE_EXE_LINKER_FLAGS-ADVANCED: '1'
+  CMAKE_EXE_LINKER_FLAGS_DEBUG: /debug /INCREMENTAL
+  CMAKE_EXE_LINKER_FLAGS_DEBUG-ADVANCED: '1'
+  CMAKE_EXE_LINKER_FLAGS_MINSIZEREL: /INCREMENTAL:NO
+  CMAKE_EXE_LINKER_FLAGS_MINSIZEREL-ADVANCED: '1'
+  CMAKE_EXE_LINKER_FLAGS_RELEASE: /INCREMENTAL:NO
+  CMAKE_EXE_LINKER_FLAGS_RELEASE-ADVANCED: '1'
+  CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO: /debug /INCREMENTAL
+  CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED: '1'
+  CMAKE_EXTRA_GENERATOR: ''
+  CMAKE_GENERATOR: Visual Studio 16 2019
+  CMAKE_GENERATOR_INSTANCE: C:/Program Files (x86)/Microsoft Visual Studio/2019/Preview
+  CMAKE_GENERATOR_PLATFORM: x64
+  CMAKE_GENERATOR_TOOLSET: ''
+  CMAKE_HAVE_PTHREAD_H: ''
+  CMAKE_HOME_DIRECTORY: D:/proj/c4core
+  CMAKE_INSTALL_BINDIR: bin
+  CMAKE_INSTALL_BINDIR-ADVANCED: '1'
+  CMAKE_INSTALL_DATADIR: ''
+  CMAKE_INSTALL_DATADIR-ADVANCED: '1'
+  CMAKE_INSTALL_DATAROOTDIR: share
+  CMAKE_INSTALL_DATAROOTDIR-ADVANCED: '1'
+  CMAKE_INSTALL_DOCDIR: ''
+  CMAKE_INSTALL_DOCDIR-ADVANCED: '1'
+  CMAKE_INSTALL_INCLUDEDIR: include
+  CMAKE_INSTALL_INCLUDEDIR-ADVANCED: '1'
+  CMAKE_INSTALL_INFODIR: ''
+  CMAKE_INSTALL_INFODIR-ADVANCED: '1'
+  CMAKE_INSTALL_LIBDIR: lib
+  CMAKE_INSTALL_LIBDIR-ADVANCED: '1'
+  CMAKE_INSTALL_LIBEXECDIR: libexec
+  CMAKE_INSTALL_LIBEXECDIR-ADVANCED: '1'
+  CMAKE_INSTALL_LOCALEDIR: ''
+  CMAKE_INSTALL_LOCALEDIR-ADVANCED: '1'
+  CMAKE_INSTALL_LOCALSTATEDIR: var
+  CMAKE_INSTALL_LOCALSTATEDIR-ADVANCED: '1'
+  CMAKE_INSTALL_MANDIR: ''
+  CMAKE_INSTALL_MANDIR-ADVANCED: '1'
+  CMAKE_INSTALL_OLDINCLUDEDIR: /usr/include
+  CMAKE_INSTALL_OLDINCLUDEDIR-ADVANCED: '1'
+  CMAKE_INSTALL_PREFIX: D:/proj/c4core/install/windows-x86_64-vs2019-MinSizeRel
+  CMAKE_INSTALL_RUNSTATEDIR: ''
+  CMAKE_INSTALL_RUNSTATEDIR-ADVANCED: '1'
+  CMAKE_INSTALL_SBINDIR: sbin
+  CMAKE_INSTALL_SBINDIR-ADVANCED: '1'
+  CMAKE_INSTALL_SHAREDSTATEDIR: com
+  CMAKE_INSTALL_SHAREDSTATEDIR-ADVANCED: '1'
+  CMAKE_INSTALL_SYSCONFDIR: etc
+  CMAKE_INSTALL_SYSCONFDIR-ADVANCED: '1'
+  CMAKE_INTERNAL_PLATFORM_ABI: ${CMAKE_CXX_COMPILER_ABI}
+  CMAKE_LIBRARY_ARCHITECTURE: ''
+  CMAKE_LINKER: C:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/VC/Tools/MSVC/14.28.29304/bin/Hostx64/x64/link.exe
+  CMAKE_LINKER "C:/Program Files (x86)/Microsoft Visual: Studio/2019/Preview/VC/Tools/MSVC/14.28.29304/bin/Hostx64/x64/link.exe
+  CMAKE_LINKER-ADVANCED: '1'
+  CMAKE_MODULE_LINKER_FLAGS: /machine:x64
+  CMAKE_MODULE_LINKER_FLAGS-ADVANCED: '1'
+  CMAKE_MODULE_LINKER_FLAGS_DEBUG: /debug /INCREMENTAL
+  CMAKE_MODULE_LINKER_FLAGS_DEBUG-ADVANCED: '1'
+  CMAKE_MODULE_LINKER_FLAGS_MINSIZEREL: /INCREMENTAL:NO
+  CMAKE_MODULE_LINKER_FLAGS_MINSIZEREL-ADVANCED: '1'
+  CMAKE_MODULE_LINKER_FLAGS_RELEASE: /INCREMENTAL:NO
+  CMAKE_MODULE_LINKER_FLAGS_RELEASE-ADVANCED: '1'
+  CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO: /debug /INCREMENTAL
+  CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED: '1'
+  CMAKE_MT: CMAKE_MT-NOTFOUND
+  CMAKE_MT-ADVANCED: '1'
+  CMAKE_NUMBER_OF_MAKEFILES: '8'
+  CMAKE_PLATFORM_INFO_INITIALIZED: '1'
+  CMAKE_PROJECT_DESCRIPTION: Multiplatform low-level C++ utilities
+  CMAKE_PROJECT_HOMEPAGE_URL: https://github.com/biojppm/c4core
+  CMAKE_PROJECT_NAME: c4core
+  CMAKE_PROJECT_VERSION: 2.4.1
+  CMAKE_PROJECT_VERSION_MAJOR: '2'
+  CMAKE_PROJECT_VERSION_MINOR: '4'
+  CMAKE_PROJECT_VERSION_PATCH: '1'
+  CMAKE_PROJECT_VERSION_TWEAK: ''
+  CMAKE_RANLIB: ''
+  CMAKE_RC_COMPILER: rc
+  CMAKE_RC_COMPILER-ADVANCED: '1'
+  CMAKE_RC_COMPILER_WORKS: '1'
+  CMAKE_RC_FLAGS: -DWIN32
+  CMAKE_RC_FLAGS-ADVANCED: '1'
+  CMAKE_RC_FLAGS_DEBUG: -D_DEBUG
+  CMAKE_RC_FLAGS_DEBUG-ADVANCED: '1'
+  CMAKE_RC_FLAGS_MINSIZEREL: ''
+  CMAKE_RC_FLAGS_MINSIZEREL-ADVANCED: '1'
+  CMAKE_RC_FLAGS_RELEASE: ''
+  CMAKE_RC_FLAGS_RELEASE-ADVANCED: '1'
+  CMAKE_RC_FLAGS_RELWITHDEBINFO: ''
+  CMAKE_RC_FLAGS_RELWITHDEBINFO-ADVANCED: '1'
+  CMAKE_ROOT: C:/Program Files/CMake/share/cmake-3.16
+  CMAKE_SHARED_LINKER_FLAGS: /machine:x64
+  CMAKE_SHARED_LINKER_FLAGS-ADVANCED: '1'
+  CMAKE_SHARED_LINKER_FLAGS_DEBUG: /debug /INCREMENTAL
+  CMAKE_SHARED_LINKER_FLAGS_DEBUG-ADVANCED: '1'
+  CMAKE_SHARED_LINKER_FLAGS_MINSIZEREL: /INCREMENTAL:NO
+  CMAKE_SHARED_LINKER_FLAGS_MINSIZEREL-ADVANCED: '1'
+  CMAKE_SHARED_LINKER_FLAGS_RELEASE: /INCREMENTAL:NO
+  CMAKE_SHARED_LINKER_FLAGS_RELEASE-ADVANCED: '1'
+  CMAKE_SHARED_LINKER_FLAGS_RELWITHDEBINFO: /debug /INCREMENTAL
+  CMAKE_SHARED_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED: '1'
+  CMAKE_SIZEOF_VOID_P: ${CMAKE_CXX_SIZEOF_DATA_PTR}
+  CMAKE_SKIP_INSTALL_RPATH: 'NO'
+  CMAKE_SKIP_INSTALL_RPATH-ADVANCED: '1'
+  CMAKE_SKIP_RPATH: 'NO'
+  CMAKE_SKIP_RPATH-ADVANCED: '1'
+  CMAKE_STATIC_LINKER_FLAGS: /machine:x64
+  CMAKE_STATIC_LINKER_FLAGS-ADVANCED: '1'
+  CMAKE_STATIC_LINKER_FLAGS_DEBUG: ''
+  CMAKE_STATIC_LINKER_FLAGS_DEBUG-ADVANCED: '1'
+  CMAKE_STATIC_LINKER_FLAGS_MINSIZEREL: ''
+  CMAKE_STATIC_LINKER_FLAGS_MINSIZEREL-ADVANCED: '1'
+  CMAKE_STATIC_LINKER_FLAGS_RELEASE: ''
+  CMAKE_STATIC_LINKER_FLAGS_RELEASE-ADVANCED: '1'
+  CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO: ''
+  CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED: '1'
+  CMAKE_VERBOSE_MAKEFILE: 'FALSE'
+  CMAKE_VERBOSE_MAKEFILE-ADVANCED: '1'
+  COMPILE_HAVE_GNU_POSIX_REGEX: 'FALSE'
+  COMPILE_HAVE_POSIX_REGEX: 'FALSE'
+  COMPILE_HAVE_STD_REGEX: 'TRUE'
+  COMPILE_HAVE_STEADY_CLOCK: 'TRUE'
+  CPACK_BINARY_7Z: 'OFF'
+  CPACK_BINARY_7Z-ADVANCED: '1'
+  CPACK_BINARY_IFW: 'OFF'
+  CPACK_BINARY_IFW-ADVANCED: '1'
+  CPACK_BINARY_NSIS: 'ON'
+  CPACK_BINARY_NSIS-ADVANCED: '1'
+  CPACK_BINARY_NUGET: 'OFF'
+  CPACK_BINARY_NUGET-ADVANCED: '1'
+  CPACK_BINARY_WIX: 'OFF'
+  CPACK_BINARY_WIX-ADVANCED: '1'
+  CPACK_BINARY_ZIP: 'OFF'
+  CPACK_BINARY_ZIP-ADVANCED: '1'
+  CPACK_SOURCE_7Z: 'ON'
+  CPACK_SOURCE_7Z-ADVANCED: '1'
+  CPACK_SOURCE_ZIP: 'ON'
+  CPACK_SOURCE_ZIP-ADVANCED: '1'
+  CYGWIN: '1'
+  DOCTEST_NO_INSTALL: 'OFF'
+  DOCTEST_USE_STD_HEADERS: 'OFF'
+  DOCTEST_WITH_MAIN_IN_STATIC_LIB: 'ON'
+  DOCTEST_WITH_TESTS: 'OFF'
+  DOXYGEN_DOT_EXECUTABLE: DOXYGEN_DOT_EXECUTABLE-NOTFOUND
+  DOXYGEN_DOT_EXECUTABLE-ADVANCED: '1'
+  DOXYGEN_EXECUTABLE: C:/doxygen/bin/doxygen.exe
+  DOXYGEN_EXECUTABLE-ADVANCED: '1'
+  FIND_PACKAGE_MESSAGE_DETAILS_Git: '[C:/Git/mingw64/bin/git.exe][v2.24.1.windows.2()]'
+  FIND_PACKAGE_MESSAGE_DETAILS_Python: '[C:/Python37-x64/python.exe][cfound components:
+    Interpreter ][v3.7.9()]'
+  FIND_PACKAGE_MESSAGE_DETAILS_Threads: '[TRUE][v()]'
+  GIT_EXECUTABLE: C:/Git/mingw64/bin/git.exe
+  GIT_EXECUTABLE-ADVANCED: '1'
+  HAVE_CXX_FLAG_EHA_: '1'
+  HAVE_CXX_FLAG_EHS_: '1'
+  JKJ_FP_ENABLE_SUBPROJECT: 'OFF'
+  JKJ_FP_INSTALL_CHARCONV: 'ON'
+  LIBRT: LIBRT-NOTFOUND
+  MINGW: '1'
+  MSVC_CXX_ARCHITECTURE_ID: x64
+  MSVC_C_ARCHITECTURE_ID: x64
+  RUN_HAVE_STD_REGEX: '0'
+  RUN_HAVE_STEADY_CLOCK: '0'
+  UNIX: '1'
+  _C4CORE__DOWNLOAD_doctest_LOCATION: D:/proj/extern/doctest
+  _C4CORE__DOWNLOAD_fp_LOCATION: D:/proj/extern/fp
+  _C4CORE__DOWNLOAD_googlebenchmark_LOCATION: D:/proj/extern/googlebenchmark
+  _C4CORE__DOWNLOAD_ryu_LOCATION: D:/proj/extern/ryu
+  _GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX: D:/proj/c4core/install/windows-x86_64-vs2019-MinSizeRel
+  _Python_EXECUTABLE: C:/Python37-x64/python.exe
+  _Python_EXECUTABLE-ADVANCED: '1'
+  _Python_INTERPRETER_SIGNATURE: e88d327bc1eba54ca844bbcbd2404d78
+  _Python_INTERPRETER_SIGNATURE-ADVANCED: '1'
+  _c_compiler_file: D:\proj\c4core\build\windows-x86_64-vs2019-MinSizeRel/CMakeFiles\3.16.1\CMakeCCompiler.cmake
+  _compile_commands_file: null
+  _cxx_compiler_file: D:\proj\c4core\build\windows-x86_64-vs2019-MinSizeRel/CMakeFiles\3.16.1\CMakeCXXCompiler.cmake
+  _system_file: D:\proj\c4core\build\windows-x86_64-vs2019-MinSizeRel/CMakeFiles\3.16.1\CMakeSystem.cmake
+  benchmark_BINARY_DIR: D:/proj/c4core/build/windows-x86_64-vs2019-MinSizeRel/bm/ext/googlebenchmark/build
+  benchmark_LIB_DEPENDS: general;shlwapi;
+  benchmark_SOURCE_DIR: D:/proj/extern/googlebenchmark
+  benchmark_main_LIB_DEPENDS: general;benchmark;
+  c4core_BINARY_DIR: D:/proj/c4core/build/windows-x86_64-vs2019-MinSizeRel
+  c4core_SOURCE_DIR: D:/proj/c4core
+  doctest_BINARY_DIR: D:/proj/c4core/build/windows-x86_64-vs2019-MinSizeRel/test/ext/doctest/build
+  doctest_SOURCE_DIR: D:/proj/extern/doctest
+  jkj_fp_BINARY_DIR: D:/proj/c4core/build/windows-x86_64-vs2019-MinSizeRel/bm/subprojects/fp/build
+  jkj_fp_SOURCE_DIR: D:/proj/extern/fp
+  storage_id: 32f6fc66
+  storage_name: 64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
+commit:
+  author: Joao Paulo Magalhaes
+  authored_datetime: '2020-12-03 19:33:48+00:00'
+  committed_datetime: '2020-12-03 19:33:48+00:00'
+  committer: Joao Paulo Magalhaes
+  message: 'fix: dev: charconv bm was missing int64_t'
+  name_rev: 2974fb094e6d640353ab91d9a1b2b638391352d7 master
+  sha1: 2974fb0
+  storage_id: 2974fb0
+  storage_name: git20201203_193348-2974fb0
+  summary: 'fix: dev: charconv bm was missing int64_t'
+cpu:
+  arch: X86_64
+  arch_string_raw: AMD64
+  bits: 64
+  brand_raw: Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz
+  count: 12
+  cpuinfo_version:
+  - 7
+  - 0
+  - 0
+  cpuinfo_version_string: 7.0.0
+  family: 6
+  flags:
+  - 3dnow
+  - 3dnowprefetch
+  - abm
+  - acpi
+  - adx
+  - aes
+  - apic
+  - avx
+  - avx2
+  - bmi1
+  - bmi2
+  - clflush
+  - cmov
+  - cx16
+  - cx8
+  - dca
+  - de
+  - ds_cpl
+  - dtes64
+  - dts
+  - erms
+  - est
+  - f16c
+  - fma
+  - fpu
+  - fxsr
+  - hle
+  - ht
+  - ia64
+  - intel_pt
+  - invpcid
+  - lahf_lm
+  - mca
+  - mce
+  - mmx
+  - monitor
+  - movbe
+  - msr
+  - mtrr
+  - osxsave
+  - pae
+  - pat
+  - pbe
+  - pcid
+  - pclmulqdq
+  - pdcm
+  - pge
+  - pni
+  - popcnt
+  - pqe
+  - pqm
+  - pse
+  - pse36
+  - rdrnd
+  - rdseed
+  - rtm
+  - sep
+  - serial
+  - smap
+  - smep
+  - ss
+  - sse
+  - sse2
+  - sse4_1
+  - sse4_2
+  - ssse3
+  - tm
+  - tm2
+  - tsc
+  - tscdeadline
+  - vme
+  - vmx
+  - x2apic
+  - xsave
+  - xtpr
+  hardware_raw: ''
+  hz_actual:
+  - 3401000000
+  - 0
+  hz_actual_friendly: 3.4010 GHz
+  hz_advertised:
+  - 3400000000
+  - 0
+  hz_advertised_friendly: 3.4000 GHz
+  l2_cache_associativity: 6
+  l2_cache_line_size: 256
+  l2_cache_size: 1572864
+  l3_cache_size: 15728640
+  model: 79
+  stepping: 1
+  storage_id: 16ac0500
+  storage_name: x86_64_16ac0500
+  vendor_id_raw: GenuineIntel
+date: 20201206-121927
+name: git20201203_193348-2974fb0/x86_64_16ac0500-win32_59f3579c-64bit_MinSizeRel_msvc19.28.29304.1_32f6fc66
+system:
+  storage_id: 59f3579c
+  storage_name: win32_59f3579c
+  sys: Windows
+  sys_platform: win32
+  uname:
+    machine: AMD64
+    node: mozart
+    release: '10'
+    system: Windows
+    version: 10.0.18362
