@@ -1,3 +1,5 @@
+projname: c4core
+url: https://github.com/biojppm/c4core
 bm:
   c4core-bm-charconv-atox-double:
     entries:
